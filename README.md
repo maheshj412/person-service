@@ -2,8 +2,7 @@
 
 ## person-service
 
- Add/delete/update person details into database.
- Add/edit/delete person address(s).
+ Add/delete/update person details into database and Add/edit/delete person address(s).
 
 ## Person-rest-api is created using following tools and technology
 
